@@ -1,2 +1,2 @@
 Hello Git and GitHub
-Het zonnetje schijnt\!
+Het zonnetje schijnt!
